@@ -18,24 +18,6 @@
 
 ## 🚀 Project Summary
 
--   `'24.04.08 ~` **Algo Plus - 코딩테스트 역량 강화 크롬 익스텐션**
-
-    -   Chrome Extension, React, AWS Lambda
-    -   팀장, 문제 풀이 코딩테스트 환경(에디터, 테스트 케이스 실행, 코드 제출) 구현
-    -   팀 프로젝트(4인) / [Github](https://github.com/algo-plus/algo-plus) / [Chrome 웹 스토어](https://chromewebstore.google.com/detail/algo-plus/egomkekembecbmlmmoflfdaobgkliiid) / [시연영상](https://youtu.be/8h0NrgmRRuY?feature=shared)
-
--   `'24.02.19 ~ '24.04.03` **소모아 - IoT 기반 가전기기 소모품 통합 관리 플랫폼**
-
-    -   Spring, Spring Webflux, FCM, JUnit5
-    -   팀장, 그룹 API 개발, 에러 코드 정의 및 예외 공통 처리, 제휴 쇼핑몰 앱 개발 및 테스트
-    -   팀 프로젝트(6인) / [시연영상](https://youtu.be/kU9QBdzEDrQ)
-
--   `'23.08.31 ~ '23.09.17` **솔직이 - 거래 내역 기반 치매 예방 서비스**
-
-    -   Spring, JPA, Thymeleaf, JavaScript
-    -   아이디어 제시, 치매 예방 게임, 거래 내역 기반 퀴즈, 치매 진단 검사 구현
-    -   팀 프로젝트(4인) / [Github](https://github.com/SSAFYxShinhan/SolJiGi) / [시연영상](https://youtu.be/rNPzuXeeRWc)
-
 -   `'23.01.08 ~ '23.05.25` **팀프로젝트 - Promise_application**
 
     -   Java, Firebase
