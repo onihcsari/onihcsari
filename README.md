@@ -22,7 +22,7 @@
 
     -   Java, Firebase
     -   약속 시간, 장소 설정 및 약속공유, 서로의 현재 위치 공유 기능 구현
-    -   팀 프로젝트(2인) / [약속어플.pptx](https://github.com/user-attachments/files/16957867/default.pptx)
+    -   팀 프로젝트(2인) / https://github.com/onihcsari/promise_application
  
 -   `'23.04.24 ~ '23.05.11` **2인 팀프로젝트 - 대기오염 예측 인공지능 모델 개발**
 
